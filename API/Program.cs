@@ -24,6 +24,21 @@ builder.Services.AddControllers();
 //Manejo de errores del model state(Anotaciones como Required, Email, etc)
 builder.Services.AddValidationErrors();
 
+//Configuración de User Secrets
+var configuration = new ConfigurationBuilder()
+    .AddUserSecrets<Program>()
+    .Build();
+
+//Agregar los valores del archivo secrets.json a las variables de entorno
+foreach (var item in configuration.AsEnumerable())
+{
+    if (!string.IsNullOrEmpty(item.Value))
+    {
+        Environment.SetEnvironmentVariable(item.Key, item.Value);
+    }
+}
+
+
 //Comunication with MYSQL Database
 builder.Services.AddDbContext<SecurityContext>(options =>
 {
