@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\API\\API.csproj": {}
+    "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\API\\API.csproj": {}
   },
   "projects": {
-    "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\API\\API.csproj": {
+    "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\eleazar\\.nuget\\packages\\",
-        "outputPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\API\\obj\\",
+        "projectPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\eleazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Infraestructure\\Infraestructure.csproj"
+              "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Infraestructure\\Infraestructure.csproj"
               }
             }
           }
@@ -102,25 +98,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\Core.csproj": {
+    "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\eleazar\\.nuget\\packages\\",
-        "outputPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\eleazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -161,25 +153,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Infraestructure\\Infraestructure.csproj": {
+    "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Infraestructure\\Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\eleazar\\.nuget\\packages\\",
-        "outputPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Infraestructure\\Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\eleazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -193,8 +181,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\Core.csproj": {
-                "projectPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\Core.csproj"
+              "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\Core.csproj"
               }
             }
           }
@@ -244,7 +232,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

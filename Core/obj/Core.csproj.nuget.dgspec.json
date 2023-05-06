@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\Core.csproj": {}
+    "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\Core.csproj": {}
   },
   "projects": {
-    "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\Core.csproj": {
+    "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\eleazar\\.nuget\\packages\\",
-        "outputPath": "d:\\ELEAZAR\\CICLO 7\\FUNDA ARQUI\\CODIGO\\securityBackend\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows\\Desktop\\UPC\\Desarrollo de Soluciones IoT\\TempAlert-Security\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\eleazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
